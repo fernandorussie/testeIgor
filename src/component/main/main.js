@@ -1,10 +1,10 @@
 import React from "react";
-import Main from "./component/main/main"
+import Main2 from "./component/main/main"
 
 
 const App = () =>{
     return(
-        <Main/>
+        <Main2/>
     )
 }
 export default App
